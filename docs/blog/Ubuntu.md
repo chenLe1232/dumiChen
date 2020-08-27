@@ -1,3 +1,8 @@
+---
+nav:
+  title: 博客
+  path: /blog
+---
 ## unbuntu 安装 mysql 流程思路
 ```bash
 检查apt 更新
