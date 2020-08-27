@@ -1,6 +1,6 @@
 ---
 nav:
-  title: Components
+  title: 组件库-待更新
   path: /components
 ---
 
