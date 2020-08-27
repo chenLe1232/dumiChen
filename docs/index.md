@@ -18,4 +18,9 @@ features:
 footer: Open-source MIT Licensed | Copyright © 2020<br />Powered by [dumi](https://d.umijs.org)
 ---
 
-## Hello carline!
+## 目前暂时不支持刷新 刷新会报路径找不到的情况
+```js
+  import React from 'react'
+  // 非常简单容易上手
+```
+个人网站 [website](wwww.carline.life)
