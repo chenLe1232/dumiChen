@@ -2,7 +2,6 @@
   "private": true,
   "name": "dumi",
   "version": "1.0.0",
-  "homepage": ".",
   "scripts": {
     "start": "dumi dev",
     "docs:build": "dumi build",
