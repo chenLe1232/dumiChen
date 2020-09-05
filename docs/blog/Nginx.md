@@ -8,6 +8,8 @@ nav:
 ```bash
 ps  -ef | grep nginx
 ```
+## Nginx
+我只是入门了一点点
 ## 查看Nginx配置文件
 ```bash
 nginx -t
